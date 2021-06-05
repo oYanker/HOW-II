@@ -13,14 +13,11 @@
       border: 0;
   }
 
-#menu-h {
-    background-color: rgb(247, 223, 10);
-}
-
 #menu-h ul{
     list-style: none;
     padding: 0;
     background-color: rgb(247, 223, 10);
+    margin-bottom: 0;
 }
 
 #menu-h ul li{
