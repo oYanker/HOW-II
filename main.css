@@ -92,7 +92,7 @@
       background-position: 50% 100%;
       background-size: auto 100%;
       background-repeat: no-repeat;
-      mix-blend-mode: lighten;
+     
       opacity: 0;
       transform: scale(1.2);
       transition: opacity .4s .6s, transform .4s .6s;
